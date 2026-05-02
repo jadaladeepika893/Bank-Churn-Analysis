@@ -71,4 +71,4 @@ This analysis helps banks:
 Hi, I’m **Deepika** — an aspiring Data Analyst skilled in Power BI, SQL, and Excel.
 I am passionate about turning data into actionable insights.
 
-📫 Email: [jadala.deepika@gmail.com](mailto:jadala.deepika@gmail.com)
+📫 Email: [jadala.deepika893@gmail.com](mailto:jadala.deepika893@gmail.com)
