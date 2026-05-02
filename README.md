@@ -22,15 +22,13 @@ This project analyzes customer data using Power BI to identify patterns and key 
 
 ---
 
-## 📊 Dashboard Preview
+## ## 📊 Dashboard Preview
 
-### 🔹 Overview Dashboard
+### 🔹 Churn Analysis
+![Churn](Churn_Analysis.png)
 
-![Overview](dashboard1.png)
-
-### 🔹 Detailed Analysis
-
-![Details](dashboard2.png)
+### 🔹 Retension Analysis
+![Retension](Retension_Analysis.png)
 
 ---
 
